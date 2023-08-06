@@ -42,11 +42,11 @@
             "type": "pickString",
             "description": "Command to run",
             "options": [
-                "GetQuestionDetail",
+                "GetProblemDetail",
                 "SubmitCode",
                 "ClockIn"
             ],
-            "default": "GetQuestionDetail"
+            "default": "GetProblemDetail"
         }
     ],
     "version": "2.0.0"
